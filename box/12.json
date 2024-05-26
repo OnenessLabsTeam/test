@@ -1,0 +1,53 @@
+
+{
+    "name": "Box",
+    "description": "Box Box Box Box",
+    "attributes": [
+        {
+            "trait_type": "Card",
+            "value": "Box"
+        },
+        {
+            "trait_type": "Sub Type",
+            "value": "Box"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Box"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "1"
+        },
+        {
+            "trait_type": "Level",
+            "value": "1"
+        },
+        {
+            "trait_type": "Physical Defense",
+            "value": "2"
+        },
+        {
+            "trait_type": "Magical Defense",
+            "value": "2"
+        },
+        {
+            "trait_type": "World Boss DPS",
+            "value": 80.0
+        },
+        {
+            "trait_type": "Origin",
+            "value": "TOWER Chest G1"
+        },
+        {
+            "trait_type": "Affinity",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Equipments"
+        }
+    ],
+    "external_url": "https://onenesslabs.io",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaNM2t2cRhNGPr6sDamjtPG2p6PoVxcUryLEZQyr7gBmT/21138977213814412133939476592229928685921017225686963411631402981780852047872.png"
+}
